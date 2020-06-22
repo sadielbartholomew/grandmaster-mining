@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/grandmaster-mining.dir/src/main.cpp.o  -o grandmaster-mining 
